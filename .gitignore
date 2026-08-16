@@ -2,4 +2,5 @@
 chroma_db/
 __pycache__/
 *.pyc
-.DS_Storeoutput.txt
+.DS_Store
+output.txt

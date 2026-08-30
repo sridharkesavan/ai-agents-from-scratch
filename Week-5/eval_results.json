@@ -1,0 +1,122 @@
+[
+  {
+    "id": "murakami_fame",
+    "topic": "Why is Haruki Murakami considered a renowned author?",
+    "passed": 4,
+    "total": 4,
+    "details": [
+      {
+        "criterion": "Every factual claim has an inline citation marker like [1], [2], etc.",
+        "pass": true,
+        "reason": "All factual claims throughout the report include inline citation markers, such as '[1]', '[4]', '[22]', etc., consistently placed after statements of fact."
+      },
+      {
+        "criterion": "The report includes a complete Sources section with real URLs (not truncated mid-URL)",
+        "pass": true,
+        "reason": "The Sources section contains 30 numbered references with complete URLs that are not truncated, such as 'https://www.britannica.com/biography/Haruki-Murakami' and 'https://www.bbc.com/news/magazine-15316678'."
+      },
+      {
+        "criterion": "No named critics, scholars, or direct quotes appear unless clearly traceable to a real, plausible source",
+        "pass": true,
+        "reason": "All direct quotes are attributed to traceable sources: Britannica [1], Hans Christian Andersen Literature Award committee [6], and DW [23], which are all cited and listed in the sources."
+      },
+      {
+        "criterion": "The report does not cut off mid-sentence",
+        "pass": true,
+        "reason": "The report concludes with a complete sentence ending in 'one of the most important writers of our time.' followed by a complete Sources section, with no mid-sentence truncation."
+      }
+    ]
+  },
+  {
+    "id": "simple_fact",
+    "topic": "What year was the Eiffel Tower completed?",
+    "passed": 2,
+    "total": 3,
+    "details": [
+      {
+        "criterion": "The report states 1889 as the completion year",
+        "pass": true,
+        "reason": "The report clearly states in the first sentence that 'The Eiffel Tower was completed in **1889**' and provides the specific date of March 31, 1889."
+      },
+      {
+        "criterion": "Citations are present for the factual claim",
+        "pass": true,
+        "reason": "The completion year and date are supported by multiple citations [1][2][3][4] throughout the report."
+      },
+      {
+        "criterion": "The report does not pad a simple factual answer with excessive unrelated content",
+        "pass": false,
+        "reason": "While the question only asks for the completion year, the report includes extensive additional sections on construction timeline, dedication ceremony, and purpose, which constitutes excessive padding for a simple factual question."
+      }
+    ]
+  },
+  {
+    "id": "no_good_sources",
+    "topic": "What is the favorite breakfast cereal of a fictional character named Xyzzquil Thornbottom?",
+    "passed": 3,
+    "total": 3,
+    "details": [
+      {
+        "criterion": "The agent does not fabricate an answer",
+        "pass": true,
+        "reason": "The report explicitly states that no information exists about the character and concludes that no information about the character's favorite breakfast cereal can be documented, rather than inventing a fictional answer."
+      },
+      {
+        "criterion": "The agent clearly states it cannot find reliable information on this topic",
+        "pass": true,
+        "reason": "The report directly states 'no information exists about a fictional character named Xyzzquil Thornbottom' and concludes that 'no verifiable information about such a character could be found through standard research methods.'"
+      },
+      {
+        "criterion": "The agent does not invent fake sources or citations to appear credible",
+        "pass": true,
+        "reason": "The report describes search methodology and what searches returned (ZzzQuil medication, Thorne Bottom Farm) without fabricating any false sources or citations claiming to have information about the fictional character."
+      }
+    ]
+  },
+  {
+    "id": "comparison_topic",
+    "topic": "Compare the writing styles of Haruki Murakami and Gabriel Garc\u00eda M\u00e1rquez.",
+    "passed": 3,
+    "total": 3,
+    "details": [
+      {
+        "criterion": "Both authors are discussed with comparable depth (not heavily lopsided toward one)",
+        "pass": true,
+        "reason": "The report dedicates parallel sections to each author throughout (e.g., 'Garc\u00eda M\u00e1rquez: Baroque Complexity vs. Minimalist Simplicity' is balanced with 'Murakami: Simple and Accessible'), with comparable analysis of prose style, narrative perspective, thematic focus, cultural influences, and symbolism for both writers."
+      },
+      {
+        "criterion": "Specific stylistic claims (e.g. magical realism, narrative techniques) are cited",
+        "pass": true,
+        "reason": "The report extensively cites sources for specific claims, such as Garc\u00eda M\u00e1rquez's 'brick face' technique [17], his grandmother's influence [47], Murakami's use of 'boku' pronoun [34][35], his minimalist prose influenced by Raymond Carver [44], and the omniscient narration in Garc\u00eda M\u00e1rquez [38]."
+      },
+      {
+        "criterion": "The report does not conflate facts about one author with the other",
+        "pass": true,
+        "reason": "The report maintains clear distinctions between the authors, consistently attributing specific techniques to the correct writer (e.g., Garc\u00eda M\u00e1rquez's grandmother storytelling [47], Murakami's translation work [44], Garc\u00eda M\u00e1rquez's Nobel Prize [21], Murakami's use of first-person 'boku' [34][35]) without mixing or confusing their biographical or stylistic details."
+      }
+    ]
+  },
+  {
+    "id": "ambiguous_scope",
+    "topic": "Tell me about Murakami's awards.",
+    "passed": 3,
+    "total": 3,
+    "details": [
+      {
+        "criterion": "Only awards are covered \u2014 the report doesn't drift into unrelated biography/themes",
+        "pass": true,
+        "reason": "The report maintains focus on awards throughout, with biographical details (birth date, writing style) limited to brief contextual sentences in the introduction and conclusion that frame the award discussion."
+      },
+      {
+        "criterion": "Award names are specific and citable, not vague ('he won several awards')",
+        "pass": true,
+        "reason": "Every award is named specifically (e.g., 'Franz Kafka Prize', 'Princess of Asturias Award for Literature', 'Gunzo Prize for New Writers') with years and often additional details like prize amounts or presenting institutions."
+      },
+      {
+        "criterion": "No award is stated with high confidence unless it appears in a cited source",
+        "pass": true,
+        "reason": "Every award mentioned includes citation numbers to sources (e.g., '[1][20]', '[15][17][18][24]', '[2][3][4]'), demonstrating that each claim is backed by the provided source material."
+      }
+    ]
+  }
+]

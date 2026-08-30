@@ -9,8 +9,8 @@ A self-paced 6-week journey into building AI agents from first principles: LLM f
 | 1 | Gen AI Building Blocks (tokens, prompting, function calling) | ✅ Done | [Notes](./Week-1/NOTES.md) |
 | 2 | RAG & Context Engineering | ✅ Done | [Notes](./Week-2/NOTES.md) |
 | 3 | Agentic Architectures (ReAct, Reflection, LangGraph, MCP) | ✅ Done  | [Notes](./Week-3/NOTES.md) |
-| 4 | Fine-tuning & Local Models | ⬜ Not started | |
-| 5 | Evals & Observability | ⬜ Not started | |
+| 4 | Fine-tuning & Local Models | ✅ Done  | [Notes](./Week-4/NOTES.md) |
+| 5 | Evals & Observability | ✅ Done  | [Notes](./Week-5/NOTES.md) |
 | 6 | AI Security & Safety | ⬜ Not started | |
 
 ## Stack
@@ -21,6 +21,9 @@ A self-paced 6-week journey into building AI agents from first principles: LLM f
 - sentence-transformers (local embeddings)
 - Tavily (web search)
 - LangGraph (agent orchestration)
+- ollama (local LLM)
+- QWEN (google collab fine tuning)
+- LangFuse (observability)
 
 ## Setup
 

@@ -6,12 +6,12 @@ A self-paced 6-week journey into building AI agents from first principles: LLM f
 
 | Week | Topic | Status | Notes |
 |---|---|---|---|
-| 1 | Gen AI Building Blocks (tokens, prompting, function calling) | ✅ Done | [Notes](./Week-1/Week-1-NOTES.md) |
-| 2 | RAG & Context Engineering | ✅ Done | [Notes](./Week-2/Week-2-NOTES.md) |
-| 3 | Agentic Architectures (ReAct, Reflection, LangGraph, MCP) | ✅ Done  | [Notes](./Week-3/Week-3-NOTES.md) |
-| 4 | Fine-tuning & Local Models | ✅ Done  | [Notes](./Week-4/Week-4-NOTES.md) |
-| 5 | Evals & Observability | ✅ Done  | [Notes](./Week-5/Week-5-NOTES.md) |
-| 6 | AI Security & Safety | ✅ Done | [Notes](./Week-5/Week-6-NOTES.md)  |
+| 1 | Gen AI Building Blocks (tokens, prompting, function calling) | ✅ Done | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-1/Week-1-NOTES.md) |
+| 2 | RAG & Context Engineering | ✅ Done | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-2/Week-2-NOTES.md) |
+| 3 | Agentic Architectures (ReAct, Reflection, LangGraph, MCP) | ✅ Done  | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-3/Week-3-NOTES.md) |
+| 4 | Fine-tuning & Local Models | ✅ Done  | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-4/Week-4-NOTES.md) |
+| 5 | Evals & Observability | ✅ Done  | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-5/Week-5-NOTES.md)
+| 6 | AI Security & Safety | ✅ Done | [Notes](https://github.com/sridharkesavan/ai-agents-from-scratch/blob/b2d8d4704c35ca85445418b3c4434089ed53fc1c/Week-6/Week-6-NOTES.md)  |
 
 ## Stack
 
